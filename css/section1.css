@@ -1,0 +1,53 @@
+
+
+.carousal1-text{
+    color: black;
+    /* padding-bottom: 70px; */
+    /* margin-right: 50px; */
+    text-align: left;
+    margin-bottom: 80px;
+    color: rebeccapurple;
+    /* overflow: hidden; */
+}
+
+.carousal2-text{
+    color: black;
+    /* padding-bottom: 70px; */
+    margin-bottom: 50px;
+    color: rebeccapurple;
+}
+.carousal3-text{
+    color: rebeccapurple;
+    text-align: right;
+    margin-bottom: 40px;
+
+}
+
+.head-text{
+    font-size: 27px;
+}
+.mid-text{
+    font-size: 44px;
+}
+.lower-text{
+    font-size: 16px;
+}
+.carousal-btn{
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    background-color:rgb(156, 72, 235);
+}
+
+@media(max-width:1000px) {
+    .section1{
+        width: 45%;
+    } 
+}
+
+@media(max-width:750px) {
+    .section1{
+        width: 100%;
+    } 
+}
+

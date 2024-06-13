@@ -1,0 +1,44 @@
+
+.logo{
+    height: 30px;
+    width: 40px;
+}
+
+
+.wishlist{
+    height: 22px;
+    width: 22px;
+}
+
+.cart{
+    height: 32px;
+    width: 32px;
+
+}
+.profile{
+    height: 22px;
+    width: 22px;
+
+}
+.nav-right-item {
+    display: inline-flex;
+    float: right;
+    padding-left: 60%;
+    align-items: center
+}
+
+.ul-item{
+    align-items: center;
+}
+.nav-left-ul{
+    font-size: 18px;
+    font-weight: 700;
+    padding: 15px;
+}
+header{
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    /* overflow: hidden; */
+    /* position: fixed; */
+        /* top: 0; */
+        /* width: 100%; */
+}
